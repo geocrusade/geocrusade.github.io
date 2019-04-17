@@ -20,7 +20,7 @@ They seek to create a heaven on earth, worthy of their lord to descend to in vis
 
 ### The Aeseons
 
-The Aeseons believe that everything is an illusion and that the ancients aren’t really extinct. They believe that there was some sort of historical catalyst that required the stasis of humanity. Or, perhaps, that the world is nothing more than a training ground for a larger war to come, outside of the barrier. The Aeseons learned that the frequency of waves emitted by some artifacts can warp space-time. Because of his, they seek the artifacts to conduct experiments to develop newer technologies.
+The Aeseons believe that everything is an illusion and that the ancients aren’t really extinct. They believe that there was some sort of historical catalyst that required the stasis of humanity. Or, perhaps, that the world is nothing more than a training ground for a larger war to come, outside of the barrier. The Aeseons learned that the frequency of waves emitted by some artifacts can warp space-time. Because of this, they seek the artifacts to develop new technologies.
 
 The problem with them, though, is that they are a faction of people who believe that resources should be shared and free for everyone. This is because they see competitive trade as another illusory part of the simulation to transcend. 
 
