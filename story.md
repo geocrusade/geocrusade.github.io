@@ -8,7 +8,7 @@ permalink: /story/
 
 Many lifetimes ago, there was a society that ruled the globe. The ancients were a superior race of humanoids with vastly higher technology than what exists now. They flourished, until an unkown event nearly erased everything. Nature was virtually the only survivor. Sparse artifacts remain, scattered around the world, possessing fragments of ancient knowledge. Since their discovery, artifacts have become the centerpiece of conflict between the four new age factions.
 
-## Now we fight.
+## Four factions rise from the ashes.
 
 ### The Seirans
 
