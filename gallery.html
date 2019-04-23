@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="posts">
+    {% for image in site.static_files %}
+      {% if image.path contains 'images/gallery' %}
+        <article class="post">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        </article>
+      {% endif %}
+    {% endfor %}
+</div>
