@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Week 7 Update
+title: First Weekly Update
 ---
+
+* LTDR: Development is on track and the game will be fully open source. *
 
 Google Docs says I created the initial game design document on Feburary 27th, 2019. So it has been 7 weeks since the GeoCrusade project began. Since then, a lot has happened, but there isn't much to show for all our work. There have been several design overhauls and reprioritizations that set development back a few weeks. It has taken a long time to get the ball rolling, but I believe we are now on a great path forward.
 
@@ -64,7 +66,7 @@ Thank you for your interest and support - please stay tuned for the next weekly 
 
 Sincerely, 
 
-Kole Nunley
+Kole Nunley      
 Game Director
 
 ____
