@@ -21,7 +21,7 @@ The document got a lot of great feedback -- but people were not grasping the vis
 
 ### Looking for help
 
-I have a full time job as a software engineer in Boston, MA. I knew if I tried to build this game in my limited spair time, it would take forever, maybe never get done, and certainly fall short of its potential. This meant I needed help - from at least one or two more people. With some savings, I hired Jacob Pulver to assist with Unity development, and Aaron Hunter as the backend guru. 
+I have a full time job as a software engineer in Boston, MA. I knew if I tried to build this game in my limited spare time, it would take forever, maybe never get done, and certainly fall short of its potential. This meant I needed help - from at least one or two more people. With some savings, I hired Jacob Pulver to assist with Unity development, and Aaron Hunter as the backend guru. 
 
 The backend of an MMORPG, meaning the server logic and database system, are the most complex and critical part. I recruited Aaron because he has the experience, writes optimized code, and is great to work with. He is the sole developer of [Starport](http://www.starportgame.com/), a classic indie sci-fi MMORPG. 
 
