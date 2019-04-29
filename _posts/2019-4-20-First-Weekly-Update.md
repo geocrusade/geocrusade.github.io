@@ -4,7 +4,7 @@ title: First Weekly Update
 ---
 
 #### Talking Points
-* Project Origin  & Finding the Team 
+* Project Origin & Finding a Team 
 * Current Development 
 * Going Open Source 
 
