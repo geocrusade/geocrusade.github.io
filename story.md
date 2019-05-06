@@ -207,3 +207,74 @@ Vaughn’s Zaegorian fiancé gets murdered.
 Vaughn enters a state of existential crisis.
 
 After reflecting on the conflicting warring natures of all the tribes he experiences, he decides to leave them all behind and create his own: The Varukhai. Several characters from both the Zaegorian and Seiran tribe join him.
+
+### Simon - Ruler of Seirans
+
+The Seiran way is the only way. The rest are all heretics. Heathens.
+
+They will all bow or perish.
+
+Simon thinks that his father was too soft on the other tribes. What is the purpose of self-restraint, of mercy for people unrelated to you? Why should they be allowed to keep their ways of life when their ways of living have led to the countless deaths of his own tribe?
+
+The murder of his father, himself?
+
+The weak Aeseons, needing to strike in the night, pathetic they are. Cowardly. Indecent.
+
+They allow women to fight in their armies?
+
+Meanwhile, you have the Zaegorians. Mighty, but primitive. If his father had a harder heart, they and their unclean culture would have been cleansed…long ago.
+
+There’s hope for converting the Zaegorians. They just need to be shone the light. Meanwhile, their blood is valuable for warfare. Their reflexes, their brute strength, and ability to endure the elements. If he could capture and tame their wild minds, absolute domination of the realm would be guaranteed.
+
+
+Simon is about domination, period. He wants to conquer all other tribes without compromise. The reason why is because he has the Hamlet complex. His father is at the center of almost all of this thoughts, even if Simon is not fully conscious of why. He wants to beat and surpass what his father did. So, he’s willing to go to extreme lengths to do so. 
+
+On the surface, it seems like it’s for his people. It may even seem like it’s for power or glory.
+
+However, the real reason is because he is driven to prove a point. At the core of his hardened heart is the will to show that mankind can do better, and be better than previous generations. Simon doesn’t realize it, but, despite his religious beliefs, he’s actually the strongest advocate for human evolution in the entire saga. 
+
+Take for instance, his strategy to conquer (but not eradicate) the Zaegorians. He wants to use their might against the Aeseons. However, the only way he can do that is if he subdues and converts them. If he “cleanses” their culture of its impurities for the sake of harnessing their natural strengths with Seiran schooling. This would create a whole new breed of Seiran under his control. 
+
+…but that would be, in and of itself, a form of evolution (or devolution) depending on how you’d look at it. It is the actions he makes for the betterment of what he wants the future generations to be like that make him Darwinistic in nature, even though his persona is religious. 
+
+Meanwhile, he’s willfully blind to many of his own contradictions. This is because he doesn’t have the psychological strength to face his own shadow. He’s never had to face his own shadow and, according to legendary psychologist Carl Jung, “individuate” because he had everything handed to him on a silver platter in his youth. 
+
+His religion acts as a buffer against nihilistic meaninglessness, which is a critical weakness of his psychology. His persona is all hard. But he is like Achilles in the sense that if his opponent figures out what drives him, they could render Simon into a useless cretin if they ask him the right philosophical questions. 
+
+This makes him starkly contrasted with Vaughn, who is philosophical by nature. Vaughn became philosophical by nature because of a series of unlikely events that made him begin to question his identity and the meaning to his life. Why he should be loyal to one tribe over the other, when he loves them both.
+
+Simon, on the other hand, has never had the opportunity to grow as a character from that kind of internal crisis. He’s been taught one way from the beginning, and from the first day of his life, he’s had to represent a public image in the eye of his people before he got to explore who he really was inside.
+
+This reflects in the subtleties of how he ends up speaking to the other characters throughout the developing seasons of the game’s storylines. 
+
+Though, it is not Vaughn that he holds contentment for; it’s Hera. 
+
+Starting back at the beginning of Simon’s timeline, he was born and raised in the optimal conditions for him to explore his talents. He was provided the best teachers, the best nutrients, and anything else he needed to succeed in life as the son of royalty. 
+
+Through generations of selective breeding and arranged marriages, he has the genes for success in almost anything he puts his mind to. This makes him an absolute beast in battle that earns him both the awe and fear of anyone who beholds him fighting.
+
+He is a tank, especially with his armor, who can eat damage from hordes of enemies without falling. 
+
+When he was very young, he idolized his father. The people would speak wonders about his father’s wisdom, mercy, and all around noble character. 
+
+…Or, at least, that was his father’s public persona.
+
+What Simon didn’t know was that his father was a womanizer. His father ended up impregnating one of the tribe’s women, who ends up becoming Hera’s mother.
+
+This means that Hera’s actually his younger half-sister. Though, neither of them are aware of it.
+
+Before Simon reached the age of 18, he was aiding his father to conquer territories of the other tribes at 17. During one conflict, Simon led a campaign that led to the capture of a famed Aeseon figure: Hera’s mentor.
+
+In the process of rescuing her mentor, Hera ends up killing Simon’s father, who was in the room during her mentor’s interrogation.
+
+Hera’s fame/infamy with the soldiers for her respective talents on the battlefield (part of the benefits of sharing powerful genes) led the wounded soldiers of the rescue attempt to report to Simon who it was who committed the murder.
+
+At this point, Hera becomes Simon’s number 1 archenemy, and spends the first seasons trying to kill her.
+
+Neither one of them know their relation. Though, that is revealed to the players if the take the time to complete specific side quests.
+
+ Hera becomes his worst enemy; though it’s Vaughn who becomes his worst fear. 
+
+As they strive to accomplish key contrasting objectives during the first season, their rare dialogues reveal the weaknesses to Simon’s psychology.
+
+This sends Simon down a mental rabbit hole of transformation throughout the first season of gameplay, which ends up having a ton of indirect effects on his decision-making as he pursues the death of Hera.
